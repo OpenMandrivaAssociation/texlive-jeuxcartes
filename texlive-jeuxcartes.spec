@@ -1,6 +1,6 @@
 Name:		texlive-jeuxcartes
-Version:	64997
-Release:	2
+Version:	68266
+Release:	1
 Summary:	Macros to insert playing cards
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/jeuxcartes
