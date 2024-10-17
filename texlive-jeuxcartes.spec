@@ -3,7 +3,7 @@ Version:	68266
 Release:	1
 Summary:	Macros to insert playing cards
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/jeuxcartes
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/jeuxcartes
 License:	lppl1.3c lgpl2.1 pd
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/jeuxcartes.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/jeuxcartes.doc.r%{version}.tar.xz
