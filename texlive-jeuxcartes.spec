@@ -1,5 +1,5 @@
 Name:		texlive-jeuxcartes
-Version:	68266
+Version:	73069
 Release:	1
 Summary:	Macros to insert playing cards
 Group:		Publishing
